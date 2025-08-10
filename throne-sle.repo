@@ -1,0 +1,8 @@
+[throne-suse-repo]
+name=Throne RPM SUSE repo
+baseurl=https://parhelia512.github.io/sle
+enabled=1
+autorefresh=1
+skip_if_unavailable=True
+gpgcheck=0
+repo_gpgcheck=0
